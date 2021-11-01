@@ -1,0 +1,2 @@
+# human_detector_opencv
+基于INRIAPerson行人数据集，使用OpenCV预训练好的行人检测器，结合OpenCV的HOG函数进行行人检测
